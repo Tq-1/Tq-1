@@ -1,16 +1,34 @@
-### Hi there 👋
+# 你好，我是 Tq-1 👋
 
-<!--
-**Tq-1/Tq-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一个技术爱好者，热衷于探索和学习各种新技术。我的兴趣包括但不限于：
+- 编程语言（如 C++、Java、Python）
+- 开源项目贡献
+- 软件开发与设计
+- 数据科学与机器学习
 
-Here are some ideas to get you started:
+我始终相信技术可以改变世界，并希望通过我的努力为社区做出贡献。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 技术栈
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### GitHub 统计
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tq-1&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tq-1&layout=compact" />
+
+### 我的项目
+
+- [项目1](https://github.com/Tq-1/project1): 一个基于Python的自动化工具。
+- [项目2](https://github.com/Tq-1/project2): 一个使用React构建的前端应用。
+
+### 贡献指南
+
+欢迎任何人贡献代码或提出建议！请阅读 [贡献指南](CONTRIBUTING.md) 了解更多。
+
+### 联系我
+
+- 📧 邮箱: 2046766443@qq.com
