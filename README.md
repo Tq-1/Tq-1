@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-这是一段可见的文本。
+
 
 <!-- ### GitHub 统计-->
 <!-- 
@@ -23,8 +23,8 @@
 -->
 ### 我的项目
 
-- [项目1](https://github.com/Tq-1/OpenPlateEye): 一款精心打造的车牌识别管理系统。
-- [项目2](https://github.com/Tq-1/SeaFogWatch): 一个集成的基于深度学习海雾监测系统。
+- [OpenPlateEye](https://github.com/Tq-1/OpenPlateEye): 一款精心打造的车牌识别管理系统。
+- [SeaFogWatch](https://github.com/Tq-1/SeaFogWatch): 一个集成的基于深度学习海雾监测系统。
 
 ### 联系我
 
