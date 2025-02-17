@@ -9,8 +9,9 @@
 我始终相信技术可以改变世界，并希望通过我的努力为社区做出贡献。
 
 ### 技术栈
-
+<!--
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+-->
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![c++](https://skillicons.dev/icons?i=cpp,java,py,pytorch,html,vue&theme=light)](https://skillicons.dev)
