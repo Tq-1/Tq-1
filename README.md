@@ -21,6 +21,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tq-1&show_icons=true&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tq-1&layout=compact" />
 -->
+![GitHub Contributions Snake](https://raw.githubusercontent.com/Tq-1/Tq-1/output/github-contribution-grid-snake.svg)
 ### 我的项目
 
 - [OpenPlateEye](https://github.com/Tq-1/OpenPlateEye): 一款精心打造的车牌识别管理系统。
