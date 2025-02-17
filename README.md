@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-[![c++](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![c++](https://skillicons.dev/icons?i=c++,java,python,html,pytroch,vue&theme=light)](https://skillicons.dev)
 
 <!-- ### GitHub 统计-->
 <!-- 
