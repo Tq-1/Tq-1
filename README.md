@@ -25,6 +25,7 @@
 
 - [OpenPlateEye](https://github.com/Tq-1/OpenPlateEye): 一款精心打造的车牌识别管理系统。
 - [SeaFogWatch](https://github.com/Tq-1/SeaFogWatch): 一个集成的基于深度学习海雾监测系统。
+- [Krpc](https://github.com/Tq-1/Krpc): 一个基于C++实现的分布式RPC服务注册与调⽤系统。
 
 ### 联系我
 
