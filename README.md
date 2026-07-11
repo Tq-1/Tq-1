@@ -26,13 +26,13 @@
 - 自动化验证、测试或评测用例；
 - 对主流 Agent / Skill 生态友好的安装结构。
 
-## Featured Skill
+## 最新发布
 
 ### [T.E.S.T. — Traceable Evidence Synthesis Toolkit](https://github.com/Tq-1/test)
 
 > 把模糊问题转化为有来源、可核验、可决策的研究简报。
 
-一个通用的证据优先研究 Skill，适用于产品比较、事实核查、文献调研、市场分析、政策核验和任何强调时效性或证据冲突的任务。
+一个通用的证据优先研究 Skill，适用于产品比较、事实核查、文献调研、市场分析、政策核验，以及任何强调时效性、可靠来源或证据冲突的任务。
 
 `范围定义 → 来源地图 → 来源账本 → 主张账本 → 冲突检查 → 引用审计 → 决策简报`
 
@@ -55,16 +55,13 @@ Portable by default.       默认考虑跨平台复用
 - **开发者工具**：代码理解、调试、测试、评审与交付；
 - **日常效率**：会议、知识管理、个人项目与兴趣工作流。
 
-## 过往项目
+## 已发布 Skills
 
-<details>
-<summary>展开查看其他开源项目</summary>
+| # | Skill | 解决的问题 | 状态 |
+|---:|---|---|---|
+| 01 | [T.E.S.T.](https://github.com/Tq-1/test) | 证据优先的调研、核验、比较与决策简报 | `v1.0.0` |
 
-- [OpenPlateEye](https://github.com/Tq-1/OpenPlateEye) — 车牌识别管理系统
-- [SeaFogWatch](https://github.com/Tq-1/SeaFogWatch) — 基于深度学习的海雾监测系统
-- [Krpc](https://github.com/Tq-1/Krpc) — C++ 分布式 RPC 服务注册与调用系统
-
-</details>
+后续发布的 Skill 将继续补充到这里，不再展示与本专栏无关的旧项目。
 
 ---
 
