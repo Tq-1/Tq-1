@@ -28,15 +28,15 @@
 
 ## 最新发布
 
-### [T.E.S.T. — Traceable Evidence Synthesis Toolkit](https://github.com/Tq-1/test)
+### [N.L.C. — Never Lose Context](https://github.com/Tq-1/never-lose-context-skill)
 
-> 把模糊问题转化为有来源、可核验、可决策的研究简报。
+> 聊天会忘，项目不该忘。
 
-一个通用的证据优先研究 Skill，适用于产品比较、事实核查、文献调研、市场分析、政策核验，以及任何强调时效性、可靠来源或证据冲突的任务。
+一个跨会话、跨模型、跨上下文窗口的可验证连续性 Skill。它会保存已核实进展、关键决定、失败尝试、开放问题和第一个可执行动作，并在新 Agent 继续工作前检查 Git、关键文件哈希、交接来源与敏感信息。
 
-`范围定义 → 来源地图 → 来源账本 → 主张账本 → 冲突检查 → 引用审计 → 决策简报`
+`捕获事实 → 记录决定 → 保存失败尝试 → 创建检查点 → 生成交接包 → 检查过期状态 → 安全恢复`
 
-它包含四种研究模式、来源质量模型、主张状态、冲突处理协议、工作区生成器、研究审计器、中英文评测，以及 Claude / Codex / Agent Skills 兼容结构。
+项目包含 `small / standard / deep` 三档上下文预算、`ready / review / reconcile` 恢复门槛、零依赖 Python CLI、秘密扫描与显式脱敏、跨领域适配协议、机器可读评测、单元测试，以及 Claude / Codex / Agent Skills 兼容结构。
 
 ## Skill 设计原则
 
@@ -60,6 +60,7 @@ Portable by default.       默认考虑跨平台复用
 | # | Skill | 解决的问题 | 状态 |
 |---:|---|---|---|
 | 01 | [T.E.S.T.](https://github.com/Tq-1/test) | 证据优先的调研、核验、比较与决策简报 | `v1.0.0` |
+| 02 | [N.L.C.](https://github.com/Tq-1/never-lose-context-skill) | 跨会话、跨模型的上下文保存、过期检测与安全恢复 | `v1.0.0` |
 
 后续发布的 Skill 将继续补充到这里，不再展示与本专栏无关的旧项目。
 
