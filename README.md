@@ -28,15 +28,15 @@
 
 ## 最新发布
 
-### [N.L.C. — Never Lose Context](https://github.com/Tq-1/never-lose-context-skill)
+### [D.W.A. — Deep Work Agent](https://github.com/Tq-1/deep-work-skill)
 
-> 聊天会忘，项目不该忘。
+> 少承诺一点，完成更多一点。
 
-一个跨会话、跨模型、跨上下文窗口的可验证连续性 Skill。它会保存已核实进展、关键决定、失败尝试、开放问题和第一个可执行动作，并在新 Agent 继续工作前检查 Git、关键文件哈希、交接来源与敏感信息。
+一个把长期目标变成现实执行闭环的 Agent Skill。它先计算用户真正可保护的时间，再用 `must / should / could` 划分承诺与 backlog；一次只启动一个专注块，只有留下完成证据才允许标记 `done`，并在低完成率或低精力时进入恢复模式，而不是用更满的计划惩罚用户。
 
-`捕获事实 → 记录决定 → 保存失败尝试 → 创建检查点 → 生成交接包 → 检查过期状态 → 安全恢复`
+`目标契约 → 里程碑 → 容量受限的冲刺 → 单一专注块 → 完成证据 → 周复盘 → 有边界的调整`
 
-项目包含 `small / standard / deep` 三档上下文预算、`ready / review / reconcile` 恢复门槛、零依赖 Python CLI、秘密扫描与显式脱敏、跨领域适配协议、机器可读评测、单元测试，以及 Claude / Codex / Agent Skills 兼容结构。
+项目包含零依赖 Python CLI、20 项自动化测试、严格审计、三类任务承诺、停车场、恢复模式、显式同意后才生效的容量建议，以及 Claude / Codex / Agent Skills 兼容结构。
 
 ## Skill 设计原则
 
@@ -61,6 +61,7 @@ Portable by default.       默认考虑跨平台复用
 |---:|---|---|---|
 | 01 | [T.E.S.T.](https://github.com/Tq-1/test) | 证据优先的调研、核验、比较与决策简报 | `v1.0.0` |
 | 02 | [N.L.C.](https://github.com/Tq-1/never-lose-context-skill) | 跨会话、跨模型的上下文保存、过期检测与安全恢复 | `v1.0.0` |
+| 03 | [D.W.A.](https://github.com/Tq-1/deep-work-skill) | 长期目标的容量规划、单一专注、证据完成与恢复复盘 | `v1.0.0` |
 
 后续发布的 Skill 将继续补充到这里，不再展示与本专栏无关的旧项目。
 
